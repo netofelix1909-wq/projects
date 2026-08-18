@@ -1,3 +1,5 @@
+#Construido em 2014 / Builded on 2014
+
 #!/usr/bin/python
 # coding: UTF-8
 from os import system
